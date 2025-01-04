@@ -7,3 +7,6 @@ This repository contains the final exam assignment for Machine Learning, designe
 
 ### **Objective**
 To reproduce, explain, and demonstrate key AI learning materials, emphasizing both technical accuracy and teaching methodologies. This repository serves as the submission platform for all outputs, including source code, video tutorials, and supporting documentation.
+
+## **Pembagian Tugas**
+- Muhamad Hilmi Haidar | 1103213005 | Task 5
